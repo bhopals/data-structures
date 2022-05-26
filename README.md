@@ -12,7 +12,7 @@ Absolutely ! I would go as far as to say that this might the very thing that you
 
 ## I don't like the way everything is presented.
 
-To be honest, me neither ! So, here's the [GitBook Version](https://nitinranganath.gitbook.io/data-structures/) which has a better user experience in my opinion. There's no difference in the content. Just the UI.
+To be honest, me neither ! So, here's the [GitBook Version](https://bhopalsinghsis.gitbook.io/data-structure/) which has a better user experience in my opinion. There's no difference in the content. Just the UI.
 
 ## I want to add or modify something. How do I ?
 
@@ -28,3 +28,4 @@ Like the initiative ? Give this repo a star or contribute to it. This is more th
 ## Additional Resources
 ![Big O Cheatsheet](https://i.imgur.com/hwwGrST.png)
 Credits: [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+Credits: [Nitin Ranganath](https://github.com/itsnitinr)
